@@ -44,7 +44,7 @@ A complete e-commerce frontend built with Next.js 14 (App Router), Tailwind CSS,
 
 The project is ready to be deployed to Vercel. 
 
-**Live URL**: [https://whatbytes-store-omega.vercel.app/](https://whatbytes-store-omega.vercel.app/)
+**Live URL**: [https://whatbytes-flax.vercel.app/](https://whatbytes-flax.vercel.app/)
 
 ## Commits
 
